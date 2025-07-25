@@ -1,0 +1,6 @@
+property_id,property_name,property_group_id,property_group_name,opening_date,country,booking_revenue_currency
+3105,Serenity Resort Barcelona by FLYR,405a8cad-ea7a-44db-b839-33bc83376732,FLYR Hotels & Resorts,2023-01-01,ES,EUR
+3101,Flagship Berlin by FLYR,405a8cad-ea7a-44db-b839-33bc83376732,FLYR Hotels & Resorts,2023-01-01,DE,EUR
+3104,The Residence Paris by FLYR,405a8cad-ea7a-44db-b839-33bc83376732,FLYR Hotels & Resorts,2023-01-01,FR,EUR
+3071,Serenity Resort Atlanta by FLYR,405a8cad-ea7a-44db-b839-33bc83376732,FLYR Hotels & Resorts,2023-01-01,US,USD
+3062,Flagship Austin by FLYR,405a8cad-ea7a-44db-b839-33bc83376732,FLYR Hotels & Resorts,2023-01-01,US,USD
